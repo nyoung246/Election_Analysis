@@ -3,7 +3,7 @@
 The purpose of this election audit analysis is to assist Seth and Tom to produce the additional information requested by the election commission. The additional information requested consisted of the total number of votes casted, the list of candidates, the percentage of votes each candidate received, how many votes each candidate received and the winning candidate. This information was incorporated into the given script to generate the results, thus completing the audit.
 ## Election-Audit Results:
 Please see the below photo of the Election results shown in the terminal. This photo will be used as a reference for the following points.
-![Election_results_terminal](https://github.com/nyoung246/Election_Analysis/blob/main/Resources/Election_results_terminal.PNG)
+>![Election_results_terminal](https://github.com/nyoung246/Election_Analysis/blob/main/Resources/Election_results_terminal.PNG)
 * How many votes were cast in this congressional election?
 > As seen in the photo above of the election results, there was a total of 369,711 votes casted. 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
